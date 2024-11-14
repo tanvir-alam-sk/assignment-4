@@ -78,7 +78,7 @@ Visit http://localhost:3000 to see the application.
 
 ##Project Implementation
 
-**API Endpoint**
+** API Endpoint **
 
 **-Endpoint:** GET /hotel/{hotel-id}
 **-Description:** Fetches hotel details based on the provided hotel-id.
